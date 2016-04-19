@@ -1,0 +1,5 @@
+# Just a sample
+# the domain name must not contain `_`!
+192.168.2.163 mastercom
+192.168.1.91 slave1
+192.168.1.92 slave2
