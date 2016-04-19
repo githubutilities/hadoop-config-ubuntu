@@ -1,4 +1,4 @@
-# Hadoop multi-node config
+# Hadoop multi-node config for ubuntu
 
 # Steps
 
@@ -27,3 +27,8 @@
 * [single-node](http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/)
 * [multi-node](http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/)
 * [config file simple description](http://www.cnblogs.com/Richardzhu/p/3579851.html)
+
+# Other Solutions(made by Enterprise)
+
+* [hortonworks](http://hortonworks.com/)
+* [cloudera](http://www.cloudera.com/)
