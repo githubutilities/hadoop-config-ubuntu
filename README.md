@@ -31,4 +31,4 @@
 # Other Solutions(made by Enterprise)
 
 * [hortonworks](http://hortonworks.com/)
-* [cloudera](http://www.cloudera.com/)
+* [cloudera - QuickStarts, Cloudera Manager, Cloudera Director](http://www.cloudera.com/)
