@@ -1,4 +1,4 @@
-# Hadoop
+# Hadoop multi-node config
 
 # Steps
 
